@@ -8,12 +8,3 @@ install(
   DESTINATION
     include
 )
-
-install(
-  FILES
-    include/-0/common_export.h
-    include/-0/common_macros.h
-    include/-0/common_types.h
-  DESTINATION
-    include/-0
-)
